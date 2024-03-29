@@ -12,6 +12,15 @@ This is a simple project built using object-oriented programming (OOP) concepts 
 5-Display users.
 
 6-Delete questions.
+
+## The Object-Oriented Programming (OOP) concepts have been effectively applied in the project as follows:
+1-Classes
+
+2-Objects
+
+3-Member Functions
+
+4-Encapsulation
 ### Finally
 I welcome your feedback and suggestions to improve and enhance this project
 Your input and insights are valuable for its continuous development and refinement
